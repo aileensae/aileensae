@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [How to create a resource group, storage account, container, and blob in Microsoft Azure](https://github.com/aileensae/azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/aileensae/configure-ad)
+  - [Active Directory Deployment](https://github.com/aileensae/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/aileensae/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
